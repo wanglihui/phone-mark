@@ -1,0 +1,18 @@
+{
+  "name": "phone-mark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "git": ""
+  },
+  "author": {
+    "name": "wanglihui",
+    "email": "wanglihui.sjz@gmail.com"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "package.json"
+  ]
+}
